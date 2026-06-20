@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification Auto Launcher</string>
+    <string name="accessibility_description">This service monitors notifications and launches selected target apps automatically.</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Notification Auto Launcher",
+  "description": "Automatically launch a target application when select applications receive notification updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
